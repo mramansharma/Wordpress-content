@@ -1,6 +1,6 @@
 body
 {
-	//background-color: #b3e6cc;
+	//background-color: lavender;
 	background-image: url("header.jpg");
 	background-attachment: fixed;
 	background-size: cover;
@@ -38,7 +38,7 @@ a:link
 	padding-top: 1px;
 	padding-bottom: 0px;
 	padding-left: 7px;
-	
+
 }
 
 a:hover
@@ -129,7 +129,7 @@ div.pic
 	padding-right: 15px;
 	top: 180px;
 	right: 0px;
-	-webkit-animation: mymove 5s ; 
+	-webkit-animation: mymove 5s ;
     animation: mymove 5s ;
     color: #ffffff;
 }
@@ -179,7 +179,7 @@ tr
 
 td
 {
-	border: 1px dotted;	
+	border: 1px dotted;
 	//padding-left: 20px;
 	text-align: left;
 	//margin-right: 60px;
